@@ -1,0 +1,10 @@
+{
+  "name": "rails-vue",
+  "private": true,
+  "dependencies": {
+    "moment": "^2.18.1"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
